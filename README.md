@@ -26,7 +26,6 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-# Мой Технологический Стек
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -43,6 +42,12 @@
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaryNGer&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaryNGer&theme=nightowl&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <!--
 **MaryNGer/MaryNGer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
