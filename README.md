@@ -21,7 +21,7 @@
 - :telescope: I am a beginner developer working on the backend of web applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I develop my own projects and read technical articles.
-- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
+- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Mary-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Your_4_Mind)
 
 <!--
 **MaryNGer/MaryNGer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
