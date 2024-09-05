@@ -1,7 +1,6 @@
 <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh2MWRsdWRsZmlxb24xODA0M3ZoaTg3bzhuemRoZ2Y2Y3I5dmF3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qUABlXKRRvfQobzIXp/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://t.me/Your_4_Mind">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
 <!--   </a>
@@ -9,13 +8,12 @@
     <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a> -->
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaryNGer&style=flat-square&color=blue" alt=""/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=MaryNGer&style=flat-square&color=blue" alt=""/>
 <h1>
   Hi, I`m MaryNGer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 
 
 
