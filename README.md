@@ -48,8 +48,9 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaryNGer&theme=nightowl&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=100)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryNGer&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NzNjczZ2lqdWJnajBkamswanUzYmhlZ3JkanZmcTVtbnN3NHFwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NzNjczZ2lqdWJnajBkamswanUzYmhlZ3JkanZmcTVtbnN3NHFwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="500px"/>
 </div>
 
 
