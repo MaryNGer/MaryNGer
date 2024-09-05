@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a> -->
 </div>
+<img src="https://komarev.com/ghpvc/?username=MaryNGer&style=flat-square&color=blue" alt=""/>
 
 ## Hi there 👋
 
