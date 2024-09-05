@@ -2,8 +2,11 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh2MWRsdWRsZmlxb24xODA0M3ZoaTg3bzhuemRoZ2Y2Y3I5dmF3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qUABlXKRRvfQobzIXp/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="your-twitter-URL">
+  <a href="https://t.me/Your_4_Mind">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+    <a href="https://vk.com/id198607974">
+    <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
 </div>
 
