@@ -16,7 +16,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-✨I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.✨
+✨I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">✨
 
 - :telescope: I am a beginner developer working on the backend of web applications.
 - :seedling: Exploring Technical Content Writing.
